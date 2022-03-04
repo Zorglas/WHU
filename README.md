@@ -1,7 +1,8 @@
 ﻿# WhuDailyreport
 # Fake WhuDailyreport (Enhanced edition)
 
-代码来自karlMarx1818，本页面仅供创建链接方便在微信中使用，侵删。
+
+代码来自karlMarx1818，本页面仅供创建链接方便在微信中使用，侵删。 
 modified from https://tigerdahe.github.io/WHUDailyReport/    
 https://tigerdahe.github.io/WHUDailyReport/WebPage
 
